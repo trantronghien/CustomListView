@@ -5,4 +5,4 @@
 ##Adapter Simple Không Qua Đối Tượng 
 [Link Code](https://github.com/trantronghien/CustomListView/blob/master/ApdapterSimple/app/src/main/java/com/it85/hientran/customlistview/MainActivity.java)
 ## Adapter Qua Đối Tượng 
-[Link Code](https://github.com/trantronghien/CustomListView/blob/master/CustomListView1/app/src/main/java/com/it85/hientran/customlistview/MainActivity.java)
+[Link Code](https://github.com/trantronghien/CustomListView/tree/master/CustomListView/app/src/main/java/com/it85/hientran/customlistview)
